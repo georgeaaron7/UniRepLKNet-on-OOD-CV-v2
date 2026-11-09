@@ -1,0 +1,80 @@
+{
+  "DOI": "10.1109/tpami.2025.3600702",
+  "title": [
+    "Scaling Up Your Kernels: Large Kernel Design in ConvNets Toward Universal Representations"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6643-9698",
+      "authenticated-orcid": false,
+      "given": "Yiyuan",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaohan",
+      "family": "Ding",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Tencent AI Lab, Shenzhen, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6887-2046",
+      "authenticated-orcid": false,
+      "given": "Xiangyu",
+      "family": "Yue",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        12
+      ]
+    ]
+  },
+  "volume": "47",
+  "issue": "12",
+  "page": "11692-11707",
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/11130640/"
+    }
+  },
+  "URL": "https://doi.org/10.1109/tpami.2025.3600702"
+}

@@ -1,0 +1,202 @@
+{
+  "DOI": "10.1109/tpami.2024.3462293",
+  "title": [
+    "OOD-CV-v2 : An Extended Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-8385-2310",
+      "authenticated-orcid": false,
+      "given": "Bingchen",
+      "family": "Zhao",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Edinburgh, Edinburgh, U.K."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8768-4913",
+      "authenticated-orcid": false,
+      "given": "Jiahao",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Johns Hopkins University, Baltimore, MD, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wufei",
+      "family": "Ma",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Johns Hopkins University, Baltimore, MD, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4837-8163",
+      "authenticated-orcid": false,
+      "given": "Artur",
+      "family": "Jesslen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Freiburg, Freiburg im Breisgau, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Siwei",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of California Santa Cruz, Santa Cruz, CA, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0001-9603-4947",
+      "authenticated-orcid": false,
+      "given": "Shaozuo",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The Chinese University of Hong Kong, Ma Liu Shui, Hong Kong"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8097-1226",
+      "authenticated-orcid": false,
+      "given": "Oliver",
+      "family": "Zendel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Austrian Institute of Technology, Seibersdorf, Austria"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6104-6625",
+      "authenticated-orcid": false,
+      "given": "Christian",
+      "family": "Theobalt",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "MPII, Saarbr&#x00FC;cken, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alan L.",
+      "family": "Yuille",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Johns Hopkins University, Baltimore, MD, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9146-4403",
+      "authenticated-orcid": false,
+      "given": "Adam",
+      "family": "Kortylewski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "MPII, Saarbr&#x00FC;cken, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12
+      ]
+    ]
+  },
+  "volume": "46",
+  "issue": "12",
+  "page": "11104-11118",
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/10682066/"
+    }
+  },
+  "URL": "https://doi.org/10.1109/tpami.2024.3462293"
+}
